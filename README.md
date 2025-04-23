@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leszek-Sobisiak
+- 👋 Hi, I’m Leszek Sobisiak
 - 👀 I am interested in creating websites.
 - 🌱 I'm currently learning CSS and JavaScript
 - 📫 How to contact me - from my email address - leszeksobisiak.workspace@gmail.com 
