@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leszek Sobisiak
 - 👀 I am interested in creating websites.
-- 🌱 I'm currently learning advanced css
+- 🌱 I'm currently learning advanced css.
 - 📫 How to contact me - from my email address - leszeksobisiak.workspace@gmail.com 
 - ⚡ Fun fact: I'm self-taught
 
